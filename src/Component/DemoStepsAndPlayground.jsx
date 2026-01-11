@@ -1,6 +1,7 @@
 import React from 'react';
 import { PenTool, Zap, Download, Lock } from 'lucide-react';
 import { useNavigate } from 'react-router-dom';
+import img3 from "../assets/c.jpg";
 
 const DemoStepsAndPlayground = () => {
   const navigate = useNavigate();
@@ -26,7 +27,7 @@ const DemoStepsAndPlayground = () => {
   const galleryImages = [
     "https://images.unsplash.com/photo-1477959858617-67f85cf4f1df?q=80&w=800&auto=format&fit=crop", // City
     "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop", // Earth
-    "https://images.unsplash.com/photo-1495616811223-4d98c6e9d869?q=80&w=800&auto=format&fit=crop"  // Sunset
+    img3  // Sunset
   ];
 
   return (

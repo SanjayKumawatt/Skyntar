@@ -100,7 +100,7 @@ const DemoDetailsAndContact = () => {
                 {/* Testimonial 2 */}
                 <div className="bg-white border border-gray-900 rounded-2xl p-6 flex flex-col justify-between h-full hover:shadow-md transition-shadow">
                     <p className="text-sm text-gray-700 italic mb-4">
-                        “Incredible coherence — every frame feels like part of a story.”
+                        “Incredible coherence - every frame feels like part of a story.”
                     </p>
                     <div className="flex items-center gap-3">
                         <div className="p-2 bg-gray-100 rounded-full"><User size={16}/></div>

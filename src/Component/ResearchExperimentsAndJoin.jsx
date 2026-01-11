@@ -162,7 +162,7 @@ const ResearchExperimentsAndJoin = () => {
                     Summary: Building the Future of Motion
                 </h2>
                 <p className="text-gray-600 text-lg leading-relaxed">
-                    Our research is not just academic — it's the engine driving our product. Every insight, optimization, and breakthrough is a step toward making AI-driven video creation more powerful, accessible, and intuitive for everyone.
+                    Our research is not just academic - it's the engine driving our product. Every insight, optimization, and breakthrough is a step toward making AI-driven video creation more powerful, accessible, and intuitive for everyone.
                 </p>
             </div>
 

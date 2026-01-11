@@ -39,7 +39,7 @@ const Contact = () => {
             <span className="text-fuchsia-600">Generative Video Together.</span>
           </h1>
           <p className="text-slate-600 mb-10 text-lg max-w-2xl mx-auto">
-            Whether you're a creator, partner, researcher, or investor — we'd love to connect.
+            Whether you're a creator, partner, researcher, or investor - we'd love to connect.
           </p>
         </div>
       </section>

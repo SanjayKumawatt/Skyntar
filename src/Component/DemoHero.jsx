@@ -56,7 +56,7 @@ const DemoHero = () => {
           transition={{ duration: 0.8, delay: 0.2, ease: "easeOut" }}
           className="text-gray-700 text-lg md:text-xl max-w-3xl mb-10 leading-relaxed font-medium"
         >
-          Type a sentence. Watch it turn into cinematic motion. <span className="font-bold text-gray-900">SKYNTAR TECHNOLOGY PRIVATE LIMITED's</span> generative engine brings your imagination to life — fast, smooth, and realistic.
+          Type a sentence. Watch it turn into cinematic motion. <span className="font-bold text-gray-900">SKYNTAR TECHNOLOGY PRIVATE LIMITED's</span> generative engine brings your imagination to life - fast, smooth, and realistic.
         </motion.p>
 
         {/* Action Buttons */}

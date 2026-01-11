@@ -18,13 +18,13 @@ const WhoWeAre = () => {
               <span className="font-semibold text-indigo-600">{companyName}</span> is a new-generation artificial intelligence startup developing generative video technology that enables users to convert written ideas into cinematic-quality motion clips.
             </p>
             <p className="text-lg text-slate-600 mb-6 leading-relaxed">
-              Our hybrid diffusion-transformer AI engine brings together creativity and computation — helping creators, filmmakers, educators, and brands visualize stories in seconds.
+              Our hybrid diffusion-transformer AI engine brings together creativity and computation - helping creators, filmmakers, educators, and brands visualize stories in seconds.
             </p>
 
             {/* Quote */}
             <div className="border-l-4 border-indigo-600 pl-4 py-2 bg-white shadow-sm rounded-r-lg">
               <p className="italic text-slate-700 font-medium">
-                "At {companyName}, we're not just generating videos — we're redefining visual storytelling."
+                "At {companyName}, we're not just generating videos - we're redefining visual storytelling."
               </p>
             </div>
           </div>
@@ -64,7 +64,7 @@ const WhoWeAre = () => {
               <h3 className="text-xl font-bold text-slate-900">Our Mission</h3>
             </div>
             <p className="text-slate-700 leading-relaxed">
-              To democratize creative video production through intelligent automation — enabling anyone to transform words into cinematic motion.
+              To democratize creative video production through intelligent automation - enabling anyone to transform words into cinematic motion.
             </p>
           </div>
 
@@ -75,7 +75,7 @@ const WhoWeAre = () => {
               <h3 className="text-xl font-bold text-slate-900">Our Vision</h3>
             </div>
             <p className="text-slate-700 leading-relaxed">
-              We envision a world where content creation no longer depends on cameras or studios — but on imagination and AI-driven creativity.
+              We envision a world where content creation no longer depends on cameras or studios - but on imagination and AI-driven creativity.
             </p>
           </div>
         </div>

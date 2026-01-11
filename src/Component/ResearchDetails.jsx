@@ -21,12 +21,12 @@ const ResearchDetails = () => {
                     Where Imagination <br/> Meets Science.
                 </h2>
                 <p className="text-gray-600 mb-8 text-lg leading-relaxed">
-                    <span className="font-bold text-gray-900">SKYNTAR TECHNOLOGY PRIVATE LIMITED's</span> research team focuses on bridging creativity and computation — developing models that understand human imagination and translate it into lifelike motion.
+                    <span className="font-bold text-gray-900">SKYNTAR TECHNOLOGY PRIVATE LIMITED's</span> research team focuses on bridging creativity and computation - developing models that understand human imagination and translate it into lifelike motion.
                 </p>
                 
                 <div className="border-t-2 border-gray-900 pt-6">
                     <p className="text-xl font-bold text-gray-900 italic font-serif">
-                        “Our goal isn't just to generate video — it's to understand how stories move.”
+                        “Our goal isn't just to generate video - it's to understand how stories move.”
                     </p>
                 </div>
             </div>

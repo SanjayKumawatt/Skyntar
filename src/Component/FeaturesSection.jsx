@@ -32,7 +32,7 @@ const FeaturesSection = () => {
         {/* --- Header Section --- */}
         <div className="text-center mb-16 max-w-4xl mx-auto">
           <h2 className="text-4xl md:text-5xl font-extrabold text-gray-900 mb-6 tracking-tight leading-tight">
-            The Next Generation of Video Production — <br className="hidden md:block" />
+            The Next Generation of Video Production - <br className="hidden md:block" />
             <span className="bg-clip-text text-transparent bg-gradient-to-r from-gray-900 to-gray-600">
               Powered by Intelligence.
             </span>
